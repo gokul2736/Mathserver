@@ -134,6 +134,7 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('', views.power_calculator, name='power_calculator'),  
 ]
+```
 # SERVER SIDE PROCESSING:
 
 c:\Users\admin\Mathserver\Screenshot (15).png
